@@ -1,4 +1,4 @@
-# CovidSpreadSimul
+# Covid Spread Simulation
 
 ## Summary
 This project aimed to create and develop a model to predict the current speed of the spread of COVID-19,
